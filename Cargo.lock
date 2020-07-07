@@ -1594,6 +1594,7 @@ dependencies = [
  "indexmap",
  "keccak-hash",
  "kvdb-memorydb",
+ "lazy_static",
  "log",
  "machine",
  "num-traits",
